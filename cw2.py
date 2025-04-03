@@ -1,6 +1,15 @@
 import csv
 import sqlite3
 #CLI=> Command Line Interface
+# go to git bash
+# git config-- global user.name "prason"
+#git config-- global user.email "shresthaprason99@gmail.com"
+#git init
+#git status=> if you want to check what are the status of file
+#git diff=> if you want to check what are the damages
+#git add. ==> track files and folder
+#git commit-m "Your message"
+#copy paste git code from github
 
 def create_connection():
     try:
